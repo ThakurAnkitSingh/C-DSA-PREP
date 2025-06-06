@@ -21,4 +21,9 @@ assets/
 Thumbs.db
 
 # VSCode
-.vscode/ 
+.vscode/
+
+# IDE
+.idea/
+*.swp
+*.swo 
